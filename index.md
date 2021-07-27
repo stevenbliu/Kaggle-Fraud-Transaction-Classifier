@@ -1,1 +1,1 @@
-![PDF](https://github.com/sdevinl/Kaggle-Fraud-Transaction-Classifier/blob/main/Kaggle-Fraud-Classifier.pdf)
+![PDF](file:///C:/Users/Steven/Desktop/sdevinl.github.io-master/FraudPrediction.html)
